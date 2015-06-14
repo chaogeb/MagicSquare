@@ -2,7 +2,9 @@
 
 School project using C#, BUPT. A WPF GUI to generate Magic Square.
 
-The the algorithms of generating magic squares are authored by furzoom. Find these algorithms at [枫竹梦][1].
+The algorithms of generating magic squares are authored by furzoom.
+
+Find these algorithms at [枫竹梦][1].
 
 ## What it is
 
